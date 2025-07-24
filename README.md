@@ -1,7 +1,7 @@
 # react-root
 
 - [react 英文官网](https://react.dev/)
-- [react 中文官网](https://zh-hans.legacy.reactjs.org/)
+- [react 中文官网](https://zh-hans.react.dev/)
 - [github | react](https://github.com/facebook/react)
 
 本项目是基于 **`react`** 框架集成各种前端组件示例。
